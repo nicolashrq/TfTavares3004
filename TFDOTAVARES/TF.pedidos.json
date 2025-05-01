@@ -1,0 +1,24 @@
+[{
+  "_id": "64b3a",
+  "cliente_id": "64b3f",
+  "entregador_id": "64b3e",
+  "data": "2024-04-01T00:00:00Z",
+  "status": "entregue",
+  "local": {
+    "type": "Point",
+    "coordinates": [
+      -46.6333,
+      -23.5505
+    ]
+  },
+  "produtos": [
+    {
+      "nome": "Pizza Calabresa",
+      "preco": 35
+    },
+    {
+      "nome": "Coca-Cola 2L",
+      "preco": 10
+    }
+  ]
+}]
